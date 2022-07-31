@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955785373141",
+    "project_id": "travelexp-491f7",
+    "storage_bucket": "travelexp-491f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955785373141:android:b594546b212fce064d095c",
+        "android_client_info": {
+          "package_name": "com.example.travelexperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955785373141-n5jo3guee0dcauddgc3vmrvcjb8o1og5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelexperience",
+            "certificate_hash": "0353991d476a0da5205efaf0b005fde1679cd171"
+          }
+        },
+        {
+          "client_id": "955785373141-sf73jkf7jegn9lhdv69fu7si231g53cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFT6bC-VffnkruV3ZGtWRwxxREjNlx0n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955785373141-sf73jkf7jegn9lhdv69fu7si231g53cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
